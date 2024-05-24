@@ -1,4 +1,5 @@
 const userService = require("../services/user");
+const ServiceResponse = require("../entities/ServiceResponse");
 
 const { hashPassword } = require("../utils/encryption");
 const bcrypt = require("bcrypt");

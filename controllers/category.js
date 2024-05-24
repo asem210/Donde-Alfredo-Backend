@@ -1,4 +1,5 @@
 const categoryService = require("../services/category");
+const ServiceResponse = require("../entities/ServiceResponse");
 
 const categoryController = {
   list: async () => {
