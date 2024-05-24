@@ -1,4 +1,3 @@
-const ServiceResponse = require("../entities/ServiceResponse");
 const dishesService = require("../services/dishes");
 const categoryService = require("../services/category");
 

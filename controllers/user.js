@@ -1,4 +1,3 @@
-const ServiceResponse = require("../entities/ServiceResponse");
 const userService = require("../services/user");
 
 const { hashPassword } = require("../utils/encryption");
